@@ -1,0 +1,22 @@
+<RCC>
+    <qresource prefix="/">
+        <file alias="bg.jpg">image/bg.jpg</file>
+        <file alias="shooter.png">image/shooter.png</file>
+        <file alias="pig.png">image/pig.png</file>
+        <file alias="wood1.png">image/wood1.png</file>
+        <file alias="wood2.png">image/wood2.png</file>
+        <file alias="wood3.png">image/wood3.png</file>
+        <file alias="black.png">image/black.png</file>
+        <file alias="red.png">image/red.png</file>
+        <file alias="white.png">image/white.png</file>
+        <file alias="yellow.png">image/yellow.png</file>
+        <file alias="hit.png">image/hit.png</file>
+        <file alias="exit.png">image/exit.png</file>
+        <file alias="restart.png">image/restart.png</file>
+        <file alias="win.png">image/win.png</file>
+        <file alias="lose.png">image/lose.png</file>
+        <file alias="ground.png">image/GROUND.png</file>
+        <file alias="doggy.mp3">doggy.mp3</file>
+        <file alias="hit.mp3">hit.mp3</file>
+    </qresource>
+</RCC>
